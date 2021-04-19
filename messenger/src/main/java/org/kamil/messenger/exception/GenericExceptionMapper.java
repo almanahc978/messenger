@@ -7,7 +7,7 @@ import javax.ws.rs.ext.Provider;
 import org.kamil.messenger.model.ErrorMessage;
 
 
-@Provider
+//@Provider disabled
 public class GenericExceptionMapper implements ExceptionMapper<Throwable> {
 
 	@Override
