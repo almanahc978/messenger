@@ -1,2 +1,2 @@
 # messenger
-My first RESTful app using Jersey implementation
+My first REST api using Jersey implementation
